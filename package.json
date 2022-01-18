@@ -2,7 +2,11 @@
   "name": "cocktail",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "http://ujjwal313.github.io",
+=======
+  "homepage": "http://ujjwal313.github.io",
+>>>>>>> df6a788149983868c7d1cc0869364b4e146074f5
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
