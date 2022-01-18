@@ -13,7 +13,7 @@ function App() {
     <Router>
       <Navbar />
       <Switch>
-        <Route exact path="/Know_Your_Cocktail" component={Home} />
+        <Route path="/Know_Your_Cocktail/" component={Home} />
         <Route path="/about" component={About} />
         <Route path="/random" component={RandomCocktail} />
         <Route path="/cocktail/:id">

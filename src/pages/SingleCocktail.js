@@ -70,7 +70,7 @@ const SingleCocktail = () => {
     cocktail;
   return (
     <section className="section cocktail-section">
-      <Link to="/Know_Your_Cocktail" className="btn btn-primary">
+      <Link to="/Know_Your_Cocktail/" className="btn btn-primary">
         back home
       </Link>
       <h2 className="section-title">{name}</h2>
