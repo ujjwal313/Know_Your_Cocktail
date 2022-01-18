@@ -10,6 +10,7 @@ const About = () => {
           href="https://www.thecocktaildb.com/api.php"
           target={"_blank"}
           id="api-link"
+          rel="noreferrer"
         >
           Docs
         </a>
