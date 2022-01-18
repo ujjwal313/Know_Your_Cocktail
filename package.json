@@ -1,8 +1,8 @@
 {
   "name": "cocktail",
   "version": "0.1.0",
+  "homepage": "https://ujjwal313.github.io/Know_Your_Cocktail/",
   "private": true,
-  "homepage": "https://ujjwal313.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
