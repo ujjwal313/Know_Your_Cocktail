@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Know_Your_Cocktail/static/css/main.0653d261.css",
+    "main.js": "/Know_Your_Cocktail/static/js/main.2f37a930.js",
+    "index.html": "/Know_Your_Cocktail/index.html",
+    "main.0653d261.css.map": "/Know_Your_Cocktail/static/css/main.0653d261.css.map",
+    "main.2f37a930.js.map": "/Know_Your_Cocktail/static/js/main.2f37a930.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0653d261.css",
+    "static/js/main.2f37a930.js"
+  ]
+}
