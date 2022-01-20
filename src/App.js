@@ -13,13 +13,13 @@ function App() {
     <Router>
       <Navbar />
       <Switch>
-        <Route path="/Know_Your_Cocktail/" component={Home} />
-        <Route path="/about" component={About} />
-        <Route path="/random" component={RandomCocktail} />
-        <Route path="/cocktail/:id">
+        <Route exact path="/Know_Your_Cocktail/" component={Home} />
+        <Route exact path="/about" component={About} />
+        <Route exact path="/random" component={RandomCocktail} />
+        <Route exact path="/cocktail/:id">
           <SingleCocktail />
         </Route>
-        <Route path="*" component={Error} />
+        <Route exact path="*" component={Error} />
       </Switch>
     </Router>
   );
