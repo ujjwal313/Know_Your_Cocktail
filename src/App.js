@@ -10,16 +10,16 @@ import Error from "./pages/Error";
 import Navbar from "./components/Navbar";
 function App() {
   return (
-    <Router>
+    <Router basename="/Know_Your_Cocktail">
       <Navbar />
       <Switch>
-        <Route exact path="/Know_Your_Cocktail/" component={Home} />
-        <Route exact path="/about" component={About} />
-        <Route exact path="/random" component={RandomCocktail} />
-        <Route exact path="/cocktail/:id">
+        <Route path="/Know_Your_Cocktail/" component={Home} />
+        <Route path="/about" component={About} />
+        <Route path="/random" component={RandomCocktail} />
+        <Route path="/cocktail/:id">
           <SingleCocktail />
         </Route>
-        <Route exact path="*" component={Error} />
+        <Route path="*" component={Error} />
       </Switch>
     </Router>
   );
