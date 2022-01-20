@@ -5,7 +5,7 @@
 https://ujjwal313.github.io/Know_Your_Cocktail/
 
 ### Screenshot 
-[![Screenshot 2022-01-20 081516](https://user-images.githubusercontent.com/43888129/150263094-c4066e08-95ff-4fcd-a2c0-7e29496624fb.png)
+![Screenshot 2022-01-20 081516](https://user-images.githubusercontent.com/43888129/150263094-c4066e08-95ff-4fcd-a2c0-7e29496624fb.png)
 
 
 ### Technologies
