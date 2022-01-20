@@ -13,7 +13,7 @@ function App() {
     <Router basename="/Know_Your_Cocktail">
       <Navbar />
       <Switch>
-        <Route path="/Know_Your_Cocktail/" component={Home} />
+        <Route path="/" component={Home} />
         <Route path="/about" component={About} />
         <Route path="/random" component={RandomCocktail} />
         <Route path="/cocktail/:id">
